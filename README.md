@@ -2,7 +2,7 @@
 
 This template is tested for **Smart-UPS C 1000**
 
-##ITEMS
+## ITEMS
 * UPS Battery Capacity
 * UPS Battery Replace
 * UPS Battery Runtime Remain
